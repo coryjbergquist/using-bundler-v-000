@@ -1,4 +1,4 @@
-require "config/environment.rb"
+require config/environment
 
 Hashie
 Sinatra
